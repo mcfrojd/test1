@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Test1
+
+nav:
+  - Hem: index.md
+  - Om: about.md
+
+theme:
+  name: 'material'
