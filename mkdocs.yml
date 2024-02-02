@@ -1,7 +1,11 @@
-site_name: Test1
+site_name: Västanfors Poker Klubb
 
 nav:
   - Hem: index.md
+  - Player Of the Year:
+    - POY 2024: poy_2024.md
+    - Januari: 2024_01.md
+    - Februari: 2024_02.md 
   - Om: about.md
 
 theme:
