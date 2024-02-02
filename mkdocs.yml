@@ -7,6 +7,7 @@ nav:
 theme:
   name: 'material'
   language: sv
+  logo: assets/logo.png
   palette:
 
     # Palette toggle for automatic mode
