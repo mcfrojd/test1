@@ -44,3 +44,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Byt till systemets föredragna läge
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
