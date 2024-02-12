@@ -6,8 +6,9 @@
     Vi spelar vanligtvis turneringar varje torsdag kl 18:00  
     Utöver det så har vi våra fasta lite större event under året.
 
-!!! tip "Nu på torsdag 15 feb spelar vi"
+!!! tip "Nu på torsdag spelar vi"
     ### NLT MiniBounty 300 + 1 re
+    ### 2024-02-15
 
     Turnering: NLT  
     Speltyp: Texas MiniBounty med 1st Re-entry  

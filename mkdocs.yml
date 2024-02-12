@@ -1,28 +1,5 @@
 site_name: Västanfors Poker Klubb
 
-# nav:
-#   - Hem: index.md
-#   - Kommande Turneringar:
-#     - kommande_turneringar/index.md
-#     - kommande_turneringar/*
-    # - TNL Klubbmästerskap 2024: kommande_turneringar/tnl_klubbmasterskap_2024.md
-    # - VPK OPEN 2024: kommande_turneringar/vpkopen_2024.md
-    # - PLO Klubbmästerskap 2024: kommande_turneringar/plo_klubbmasterskap_2024.md
-    # - Novemberkåsan 2024: kommande_turneringar/novemberkasan_2024.md
-    # - Årsfinal 2024: kommande_turneringar/arsfinal_2024.md
-    # - VPK OPEN 2025: kommande_turneringar/vpkopen_2025.md
-    # - TNL Klubbmästerskap 2025: kommande_turneringar/tnl_klubbmasterskap_2025.md
-    # - PLO Klubbmästerskap 2025: kommande_turneringar/plo_klubbmasterskap_2025.md
-    # - Novemberkåsan 2025: kommande_turneringar/novemberkasan_2025.md
-    # - Årsfinal 2025: kommande_turneringar/arsfinal_2025.md
-
-  # - Player Of the Year 2024:
-  #   - poy/index.md
-  #   # - POY 2024: poy_2024.md
-  #   - Januari: poy/2024_01.md
-  #   - Februari: poy/2024_02.md 
-  # - Om: about.md
-
 theme:
   name: 'material'
   language: sv
