@@ -1,10 +1,11 @@
-![VPK TNL Klubbmästerskap 2024](assets/tnl_klubbmasterskap.png)
+# PLO Klubbmästerskap 2025
+### 2025-04-19
 
-Datum: 2024-03-09
+![VPK PLO Klubbmästerskap 2025](assets/plo_klubbmasterskap.png)
 
 **KLUBBMÄSTERSKAP ENDAST FÖR MEDLEMMAR.**  
 
-Turnering: Texas No Limit  
+Turnering: Pot Limit Omaha  
 Speltyp: Freezeout  
 Inköp: 300  
 Startstack: 40k  

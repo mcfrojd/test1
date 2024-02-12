@@ -1,6 +1,7 @@
-![Novemberkåsan 2025](assets/novemberkasan.png)
+# VPK OPEN 2025
+### 2025-03-01
 
-Datum: 2025-11-29
+![VPK OPEN 2025](assets/vpkopen_2025.png)
 
 Turnering: Texas No Limit  
 Speltyp: Freezeout + 1 re-entry

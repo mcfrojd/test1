@@ -1,6 +1,7 @@
-![VPK OPEN 2025](assets/vpkopen_2025.png)
+# VPK OPEN 2024
+### 2024-03-30
 
-Datum: 2025-03-01
+![VPK OPEN 2024](assets/vpkopen_2024.png)
 
 Turnering: Texas No Limit  
 Speltyp: Freezeout + 1 re-entry

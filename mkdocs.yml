@@ -32,7 +32,8 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.indexes
-    # - toc.integrate
+    - toc.integrate
+    - toc.follow
     - navigation.top
     - search.suggest
     - search.highlight

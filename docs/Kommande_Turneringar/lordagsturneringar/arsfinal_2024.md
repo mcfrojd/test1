@@ -1,6 +1,7 @@
-![VPK Årsfinal 2026](assets/arsfinal.png)
+# Årsfinal 2024
+### 2024-12-14
 
-Datum: 2025-12-06
+![VPK Årsfinal 2024](assets/arsfinal.png)
 
 **ÅRSFINALEN för kvalificerade spelare.**
 

@@ -1,6 +1,7 @@
-![VPK PLO Klubbmästerskap 2025](assets/plo_klubbmasterskap.png)
+# PLO Klubbmästerskap 2024
+### 2024-04-13
 
-Datum: 2025-04-19
+![VPK PLO Klubbmästerskap 2024](assets/plo_klubbmasterskap.png)
 
 **KLUBBMÄSTERSKAP ENDAST FÖR MEDLEMMAR.**  
 
