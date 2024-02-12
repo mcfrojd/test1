@@ -73,4 +73,5 @@ extra_javascript:
   - javascripts/tablesort.js
 
 plugins:
+  - search
   - awesome-pages
