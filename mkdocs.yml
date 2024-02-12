@@ -6,8 +6,9 @@ theme:
   logo: assets/logo.png
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - navigation.path
+    # - navigation.path
     - navigation.indexes
     - toc.integrate
     - toc.follow
@@ -53,3 +54,12 @@ extra_javascript:
 plugins:
   - search
   - awesome-pages
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/groups/vastanforspoker
+      name: Vår privata grupp på Facebook
+
+copyright: Copyright &copy; 2024 Västanfors Poker Klubb

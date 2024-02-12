@@ -1,3 +1,0 @@
-# OM VPK
-
-Test text
