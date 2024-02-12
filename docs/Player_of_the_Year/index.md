@@ -1,4 +1,4 @@
-### Player Of the Year 2024
+# Player Of the Year 2024
 
 Namn|Turneringar|Poäng
 ----|:---------:|:---:
