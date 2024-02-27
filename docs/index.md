@@ -23,5 +23,12 @@
     Ingång på långsidan mot vägen, upp för trappen och till vänster.  
     Var vänlig och ANMÄL er på Facebook eventet, som en kommentar på Facebooksidan eller via epost vastanforspoker@gmail.com
 
+___
+
 !!! info "SWEDEN ROCK 2024"
     <web-component-embed id="wE9lge" app_slug="countdown-timer"></web-component-embed><script src="https://app.powr.io/assets/webcomponent.js"></script>
+___
+
+!!! info "AC/DC DUBLIN 2024"
+    <web-component-embed id="NRVEX4" app_slug="countdown-timer"></web-component-embed><script src="https://app.powr.io/assets/webcomponent.js"></script>
+___
