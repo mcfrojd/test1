@@ -55,6 +55,8 @@ extra_javascript:
 plugins:
   - search
   - awesome-pages
+  # - blog:
+  #     blog_dir: .
 
 extra:
   generator: false
