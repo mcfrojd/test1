@@ -1,4 +1,5 @@
 site_name: Västanfors Poker Klubb
+site_url: https://vastanforspoker.org/
 
 theme:
   name: 'material'
