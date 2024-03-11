@@ -55,6 +55,7 @@ extra_javascript:
 plugins:
   - search
   - awesome-pages
+  - social
   # - blog:
   #     blog_dir: .
 
