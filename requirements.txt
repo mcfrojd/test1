@@ -25,7 +25,7 @@ regex==2023.12.25
 requests==2.31.0
 six==1.16.0
 urllib3==2.0.7
-watchdog==3.0.0
-mkdocs-awesome-pages-plugin==2.9.2
+watchdog
+mkdocs-awesome-pages-plugin
 pillow
 cairosvg
