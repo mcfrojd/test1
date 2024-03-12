@@ -63,6 +63,8 @@ plugins:
 
 extra:
   generator: false
+  analytics:
+    provider: custom
   social:
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/vastanforspoker
