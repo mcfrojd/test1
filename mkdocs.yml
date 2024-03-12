@@ -3,6 +3,7 @@ site_url: https://vastanforspoker.org/
 
 theme:
   name: 'material'
+  custom_dir: overrides
   language: sv
   logo: assets/logo.png
   features:
